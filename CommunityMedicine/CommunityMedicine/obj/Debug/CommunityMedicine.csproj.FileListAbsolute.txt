@@ -1,0 +1,6 @@
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\bin\CommunityMedicine.dll.config
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\bin\CommunityMedicine.dll
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\bin\CommunityMedicine.pdb
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\obj\Debug\CommunityMedicine.csprojResolveAssemblyReference.cache
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\obj\Debug\CommunityMedicine.dll
+F:\CODE\1\Community-Medicine\CommunityMedicine\CommunityMedicine\obj\Debug\CommunityMedicine.pdb
